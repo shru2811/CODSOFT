@@ -2,7 +2,7 @@ from tkinter import *
 from tkinter import messagebox
 root = Tk()
 
-l = []
+
 def addTask():
     task = entry1.get()
     if task:
